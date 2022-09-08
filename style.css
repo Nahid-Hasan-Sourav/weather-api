@@ -1,0 +1,11 @@
+body{
+    background-image:url("./Image/othmar-ortner-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.row{
+  height:200px !important;
+  align-items: center;
+}
